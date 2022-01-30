@@ -1,0 +1,20 @@
+{
+  "name": "space_defender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o3dsn/space-defender.git"
+  },
+  "author": "o3dsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o3dsn/space-defender/issues"
+  },
+  "homepage": "https://github.com/o3dsn/space-defender#readme"
+}
